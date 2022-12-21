@@ -18,13 +18,13 @@ const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
 ##  ⚒️ Teknolojiler ve Araçlar
 <div>
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
-    <img src="https://sillicons.dev/icons?i=css" title="CSS">
-    <img src="https://sillicons.dev/icons?i=bootstrap" title="Bootstrap">
-    <img src="https://skiillicons.dev/icons?i=js" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
     <img src="https://skillicons.dev/icons?i=dart" title="Dart">
-    <img src="https://sillicons.dev/icons?i=vscode" title="VSCode">
-    <img src="https://sillicons.dev/icons?i=wordpress" title="Wordpress">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
+    <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
 </div>
 
 ##  📡 Hesaplarım

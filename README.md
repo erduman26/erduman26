@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/responsive.gif" align="left" width="140">
 
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<p>                                                                                                                                                              
+                                                                                                                                                                 </p>
 
 <br>
 
@@ -40,7 +41,7 @@ const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=erduman266666575&label=Views&color=brightgreen&style=flat-square" alt="github'da görüntülemeler"/>
+<img src="https://komarev.com/ghpvc/?username=erduman26575&label=Views&color=brightgreen&style=flat-square" alt="github'da görüntülemeler"/>
 
 <!---
 erduman26/erduman26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

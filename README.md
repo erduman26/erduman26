@@ -17,7 +17,7 @@ const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
 
 ##  ⚒️ Teknolojiler ve Araçlar
 <div>
-    <img src="https://skiillicons.dev/icons?i=html" title="HTML">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://sillicons.dev/icons?i=css" title="CSS">
     <img src="https://sillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skiillicons.dev/icons?i=js" title="JavaScript">

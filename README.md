@@ -10,7 +10,7 @@
 const  Interest_in  = [ " Web Tasarımı " , " Donanım " ]
 ```
 ```javascript
-const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
+const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
 ```
 
 <img align="center" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/header.png">
@@ -40,7 +40,7 @@ const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=erduman26575&label=Views&color=brightgreen&style=flat-square" alt="github'da görüntülemeler"/>
+<img src="https://komarev.com/ghpvc/?username=erduman266666575&label=Views&color=brightgreen&style=flat-square" alt="github'da görüntülemeler"/>
 
 <!---
 erduman26/erduman26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

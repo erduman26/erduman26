@@ -7,7 +7,7 @@
 <br>
 
 ```javascript
-const  Interest_in  = [ " Web Tasarımı " , " Arka Uç Geliştirme " , " Otomasyon Sistemleri " , " Bot Geliştirme " , " Web Scraping " , " Donanım " ]
+const  Interest_in  = [ " Web Tasarımı " , " Donanım " ]
 ```
 ```javascript
 const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
@@ -25,6 +25,7 @@ const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
     <img src="https://skillicons.dev/icons?i=dart" title="Dart">
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
+    <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop"
 </div>
 
 ##  📡 Hesaplarım

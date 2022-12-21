@@ -30,16 +30,14 @@ const  öğrenme  = [ " Mobil Geliştirme " , " Yapay Zeka " ]
 ##  📡 Hesaplarım
 <div>
   <a href="https://www.linkedin.com/in/erdem-ceviz-5958a5219/" target="_blank">
-    <img height="50" title="Linkedin" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/linkedin.png"/>
+    <img height="50" title="Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://discord.com/users/" target="_blank">
-    <img height="50" title="Discord" src="https://raw.githubusercontent.com/hulkienesuysal/hulkienesuysal/main/img/discord.png"/>
+    <img height="50" title="Discord" src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </div>
 
 <br>
-
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkienesuysal&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border= doğru"/>
 
 <img src="https://komarev.com/ghpvc/?username=erduman26575&label=Views&color=brightgreen&style=flat-square" alt="github'da görüntülemeler"/>
 

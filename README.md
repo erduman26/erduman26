@@ -13,7 +13,7 @@ const  Interest_in  = [ " Web Tasarımı " , " Donanım " ]
 const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
 ```
 
-<img align="center max-width: 150px;" src="https://miro.medium.com/max/875/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg">
+<img align="center max-width: 100%;" src="https://miro.medium.com/max/875/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg">
 
 ##  ⚒️ Teknolojiler ve Araçlar
 <div>

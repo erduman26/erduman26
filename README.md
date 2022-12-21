@@ -13,7 +13,7 @@ const  Interest_in  = [ " Web Tasarımı " , " Donanım " ]
 const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
 ```
 
-<img align="center" src="https://raw.githubusercontent.com/erduman26/erduman26/main/img/header.png">
+<img align="center" src="https://miro.medium.com/max/875/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg">
 
 ##  ⚒️ Teknolojiler ve Araçlar
 <div>

@@ -23,9 +23,11 @@ const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
     <img src="https://skillicons.dev/icons?i=dart" title="Dart">
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter">
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
-    <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop"
+    <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop">
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma">
 </div>
 
 ##  📡 Hesaplarım

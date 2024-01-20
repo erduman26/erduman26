@@ -7,10 +7,10 @@
 <br>
 
 ```javascript
-const  Interest_in  = [ " Web Tasarımı " , " Donanım " ]
+const  Interest_in  = [ " Web Tasarımı " , " SEO(Arama Motoru Optimizasyonu) " ]
 ```
 ```javascript
-const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
+const  research  = [ " HTML5 " , " Tailwind CSS " ]
 ```
 
 <img align="center" style="max-width:100%;height: auto; display: block; margin: auto;" src="https://miro.medium.com/max/875/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg">
@@ -19,20 +19,21 @@ const  research  = [ " Mobil Geliştirme " , " Ağ Teknolojileri " ]
 <div>
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind">
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
     <img src="https://skillicons.dev/icons?i=dart" title="Dart">
     <img src="https://skillicons.dev/icons?i=flutter" title="Flutter">
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode">
-    <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress">
     <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop">
     <img src="https://skillicons.dev/icons?i=figma" title="Figma">
 </div>
 
 ##  📡 Hesaplarım
 <div>
-  <a href="https://www.linkedin.com/in/erdem-ceviz-5958a5219/" target="_blank">
+  <a href="https://www.linkedin.com/in/erdem-ceviz/" target="_blank">
     <img height="50" title="Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://discord.com/users/" target="_blank">
